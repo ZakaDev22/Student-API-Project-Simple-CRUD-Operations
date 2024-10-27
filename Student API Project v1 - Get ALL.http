@@ -1,0 +1,6 @@
+@Student_API_Project_v1___Get_ALL_HostAddress = http://localhost:5244
+
+GET {{Student_API_Project_v1___Get_ALL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
